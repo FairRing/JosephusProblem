@@ -1,3 +1,10 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.StringTokenizer;
 /*
 
 # 요시푸스 문제
@@ -24,17 +31,7 @@
 입력         출력
 7 3         <3, 6, 2, 7, 5, 1, 4>
 ```
-*/
-
-
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.StringTokenizer;
- 
+*/ 
 public class Main {
  
     public static void main(String[] args) throws Exception {
